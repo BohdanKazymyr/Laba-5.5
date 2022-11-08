@@ -1,0 +1,7 @@
+﻿  Laba 5.5.cpp
+C:\Універ\Visual labu\Laba 5.5\Laba 5.5\Laba 5.5.cpp(14,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Універ\Visual labu\Laba 5.5\Laba 5.5\Laba 5.5.cpp(14,11): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Універ\Visual labu\Laba 5.5\Laba 5.5\Laba 5.5.cpp(15,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Універ\Visual labu\Laba 5.5\Laba 5.5\Laba 5.5.cpp(16,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Універ\Visual labu\Laba 5.5\Laba 5.5\Laba 5.5.cpp(16,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Laba 5.5.vcxproj -> C:\Універ\Visual labu\Laba 5.5\x64\Debug\Laba 5.5.exe

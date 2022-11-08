@@ -1,0 +1,9 @@
+﻿  UnitTest1.cpp
+C:\Універ\Visual labu\Laba 5.5\Laba 5.5\Laba 5.5.cpp(14,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Універ\Visual labu\Laba 5.5\Laba 5.5\Laba 5.5.cpp(14,11): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Універ\Visual labu\Laba 5.5\Laba 5.5\Laba 5.5.cpp(15,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Універ\Visual labu\Laba 5.5\Laba 5.5\Laba 5.5.cpp(16,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Універ\Visual labu\Laba 5.5\Laba 5.5\Laba 5.5.cpp(16,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Універ\Visual labu\Laba 5.5\UnitTest1\UnitTest1.cpp(16,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     Creating library C:\??????\Visual labu\Laba 5.5\x64\Debug\UnitTest1.lib and object C:\??????\Visual labu\Laba 5.5\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Універ\Visual labu\Laba 5.5\x64\Debug\UnitTest1.dll
